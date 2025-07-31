@@ -1,4 +1,4 @@
-const perguntasPalmeiras = [
+const perguntas = [
     {
       categoria: "História",
       pergunta: "Em que ano o Palmeiras foi fundado?",
